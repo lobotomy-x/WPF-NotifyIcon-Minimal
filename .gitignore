@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WpfApp1/obj
+/WpfApp1/.vs/WpfApp1.slnx
+/WpfApp1/.vs/WpfApp1/CopilotIndices/18.3.277.3498
+/WpfApp1/.vs/CopilotSnapshots/13D1413DDC975F4F8275217A64E38CF9
+/NotifyIcon/obj
